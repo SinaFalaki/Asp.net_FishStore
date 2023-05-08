@@ -1,0 +1,12 @@
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\bin\Debug\net6.0\Fish-Store.Common.deps.json
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\bin\Debug\net6.0\Fish-Store.Common.dll
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\bin\Debug\net6.0\Fish-Store.Common.pdb
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.AssemblyInfoInputs.cache
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.AssemblyInfo.cs
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.dll
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\refint\Fish-Store.Common.dll
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\Fish-Store.Common.pdb
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Common\obj\Debug\net6.0\ref\Fish-Store.Common.dll
