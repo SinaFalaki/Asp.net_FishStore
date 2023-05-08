@@ -1,0 +1,12 @@
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\bin\Debug\net6.0\Fish-Store.Domain.deps.json
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\bin\Debug\net6.0\Fish-Store.Domain.dll
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\bin\Debug\net6.0\Fish-Store.Domain.pdb
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.AssemblyInfoInputs.cache
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.AssemblyInfo.cs
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.dll
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\refint\Fish-Store.Domain.dll
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\Fish-Store.Domain.pdb
+D:\_MY C# PROJECT\bugeto final project\Sina-Store.Domain\obj\Debug\net6.0\ref\Fish-Store.Domain.dll
